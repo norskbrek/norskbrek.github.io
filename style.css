@@ -1,3 +1,92 @@
+body {
+  background-color: #fff;
+}
+
+.container {
+  border-style: dotted;
+  margin: 50px 100px 25px 100px;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.myContact {
+  text-align:center;
+}
+
 h1 {
-  color: blue;
+  font-family: 'Vollkorn', serif;
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+#contactAddress {
+  display: inline-block;
+  text-align: center;
+}
+
+#email {
+  text-align: right;
+}
+
+a:link {
+  text-decoration: none;
+  color: #45bfd7;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #45bfd7
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ff8300
+}
+
+a:active {
+  text-decoration: underline;
+  color: #ff69b4
+}
+
+.myTitles {
+  padding-left: 30px;
+  text-align: center;
+}
+
+#myName {
+  font-weight: bolder;
+}
+
+p.sellYourself {
+  padding: 0 50px 0 50px;
+  font-style: italic;
+  text-align: center;
+}
+
+.rezSection {
+  border-style: dotted;
+  border-color: #45bfd7;
+  margin: 30px 85px 0px 85px;
+  padding: 5px 10px 10px 10px;
+}
+
+.rezJob {
+  font-weight: lighter;
+}
+
+.rezTitle {
+  font-weight: bold;
+}
+
+.rezDate {
+  font-style: italic;
+  padding-top: -10px;
+}
+
+.footer {
+  text-align: center;
+  color: #45bfd7;
 }
