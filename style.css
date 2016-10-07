@@ -66,22 +66,22 @@ p.sellYourself {
   text-align: left;
 }
 
-.rezSection {
+.resumeSection {
   border-style: dotted;
   border-color: #45bfd7;
   margin: 30px 85px 0px 85px;
   padding: 5px 10px 10px 10px;
 }
 
-.rezJob {
+.resumeJob {
   font-weight: lighter;
 }
 
-.rezTitle {
+.resumeTitle {
   font-weight: bold;
 }
 
-.rezDate {
+.resumeDate {
   font-style: italic;
   padding-top: -10px;
 }
