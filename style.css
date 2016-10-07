@@ -86,6 +86,10 @@ p.sellYourself {
   padding-top: -10px;
 }
 
+.resumeDescription {
+  font-style: none;
+}
+
 .footer {
   text-align: center;
   color: #45bfd7;
